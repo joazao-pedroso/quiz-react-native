@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Qual planeta é conhecido como o 'Planeta Vermelho'?",
+    "options": [
+      { "option": "Marte", "color": "#E6F0FA" },
+      { "option": "Vênus", "color": "#E3F9E5" },
+      { "option": "Júpiter", "color": "#F3F0FF" },
+      { "option": "Saturno", "color": "#FFF3E6" }
+    ],
+    "correctAnswer": "Marte"
+  },
+  {
+    "question": "Quem foi o autor de 'Dom Casmurro'?",
+    "options": [
+      { "option": "Machado de Assis", "color": "#E3F9E5" },
+      { "option": "José de Alencar", "color": "#F3F0FF" },
+      { "option": "Carlos Drummond de Andrade", "color": "#E6F0FA" },
+      { "option": "Clarice Lispector", "color": "#FFF3E6" }
+    ],
+    "correctAnswer": "Machado de Assis"
+  },
+  {
+    "question": "Qual é o maior oceano do planeta?",
+    "options": [
+      { "option": "Atlântico", "color": "#E6F0FA" },
+      { "option": "Índico", "color": "#E3F9E5" },
+      { "option": "Ártico", "color": "#F3F0FF" },
+      { "option": "Pacífico", "color": "#FFF3E6" }
+    ],
+    "correctAnswer": "Pacífico"
+  },
+  {
+    "question": "Quem pintou a famosa obra 'Guernica'?",
+    "options": [
+      { "option": "Pablo Picasso", "color": "#F3F0FF" },
+      { "option": "Leonardo da Vinci", "color": "#E3F9E5" },
+      { "option": "Claude Monet", "color": "#E6F0FA" },
+      { "option": "Vincent van Gogh", "color": "#FFF3E6" }
+    ],
+    "correctAnswer": "Pablo Picasso"
+  },
+  {
+    "question": "Qual país tem o formato de uma bota no mapa?",
+    "options": [
+      { "option": "Grécia", "color": "#FFF3E6" },
+      { "option": "Espanha", "color": "#E6F0FA" },
+      { "option": "Itália", "color": "#E3F9E5" },
+      { "option": "França", "color": "#F3F0FF" }
+    ],
+    "correctAnswer": "Itália"
+  },
+  {
+    "question": "Em que ano o homem pisou na Lua pela primeira vez?",
+    "options": [
+      { "option": "1969", "color": "#E3F9E5" },
+      { "option": "1972", "color": "#FFF3E6" },
+      { "option": "1959", "color": "#E6F0FA" },
+      { "option": "1980", "color": "#F3F0FF" }
+    ],
+    "correctAnswer": "1969"
+  },
+  {
+    "question": "O que significa a sigla 'www' na internet?",
+    "options": [
+      { "option": "Web World Wire", "color": "#E6F0FA" },
+      { "option": "World Web Window", "color": "#F3F0FF" },
+      { "option": "World Wide Web", "color": "#E3F9E5" },
+      { "option": "Wide Web World", "color": "#FFF3E6" }
+    ],
+    "correctAnswer": "World Wide Web"
+  },
+  {
+    "question": "Qual desses animais é um mamífero?",
+    "options": [
+      { "option": "Tubarão", "color": "#E6F0FA" },
+      { "option": "Golfinho", "color": "#E3F9E5" },
+      { "option": "Pinguim", "color": "#F3F0FF" },
+      { "option": "Polvo", "color": "#FFF3E6" }
+    ],
+    "correctAnswer": "Golfinho"
+  },
+  {
+    "question": "Qual é o idioma mais falado no mundo?",
+    "options": [
+      { "option": "Espanhol", "color": "#FFF3E6" },
+      { "option": "Inglês", "color": "#F3F0FF" },
+      { "option": "Hindi", "color": "#E3F9E5" },
+      { "option": "Chinês mandarim", "color": "#E6F0FA" }
+    ],
+    "correctAnswer": "Chinês mandarim"
+  },
+  {
+    "question": "Qual é o símbolo químico da água?",
+    "options": [
+      { "option": "H2O", "color": "#E3F9E5" },
+      { "option": "HO2", "color": "#FFF3E6" },
+      { "option": "OH", "color": "#F3F0FF" },
+      { "option": "H2O2", "color": "#E6F0FA" }
+    ],
+    "correctAnswer": "H2O"
+  }
+]
